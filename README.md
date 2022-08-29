@@ -1,2 +1,3 @@
 # WP_HTML_Project
-Pum Store Web Programming Project
+Puma Store Web Programming Project
+Start completing it one by one
